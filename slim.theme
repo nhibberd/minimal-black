@@ -10,13 +10,13 @@ background_color        #000000
 
 # input box controls
 input_font              Sans:size=10:bold:dpi=96
-input_fgcolor           #000000
+input_fgcolor           #ffffff
 
 # panel location
-input_panel_x           50%
-input_panel_y           50%
-input_name_x            130
-input_name_y            214
+#input_panel_x           50%
+#input_panel_y           80%
+input_name_x            50%
+input_name_y            80%
 
 # force single input box (gdm style)
 input_pass_x            -1
@@ -27,6 +27,7 @@ username_font           Sans:size=10:bold:dpi=96
 username_color          #ffffff
 username_x              126
 username_y              190
+username_color          #ffffff
 password_x              126
 password_y              190
 username_msg            username
