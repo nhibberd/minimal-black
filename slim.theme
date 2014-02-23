@@ -1,8 +1,8 @@
 # messages (ie: shutdown, session options, etc)
-msg_color               #FFFFFF
-msg_font                Sans:size=10:bold:dpi=96
-msg_x                   50%
-msg_y                   70%
+#msg_color               #FFFFFF
+#msg_font                Sans:size=10:bold:dpi=96
+#msg_x                   50%
+#msg_y                   70%
 
 # valid values: stretch, tile
 background_style        tile
