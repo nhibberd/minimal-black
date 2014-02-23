@@ -1,4 +1,4 @@
-minimal-theme
+minimal-black
 =============
 
-minimal slim theme
+minimal black slim theme
